@@ -40,5 +40,5 @@ Para agregar rápidamente Bootstrap a nuestro proyecto podemos descargar el paqu
 
 # Contacto
 
-darwin.lala@udla.edu.ec
-darwinjos1996@hotmail.com
+- darwin.lala@udla.edu.ec
+- darwinjos1996@hotmail.com
